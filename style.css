@@ -26,6 +26,11 @@
   display: flex;
   list-style: none;
   font-size: 0.7em;
+  margin: 0;
+}
+
+li {
+  padding: 20px;
 }
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
